@@ -1,14 +1,14 @@
 package com.jeevan.product;
 import java.util.Scanner;
 
-public class Age {
+public class Age_D4 {
 	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		Scanner s = new Scanner(System.in);
-		System.out.println("Enter Age : ");
+		System.out.println("Enter Age_D4 : ");
 		
 		int age = s.nextInt();
 		

@@ -2,7 +2,7 @@ package com.jeevan.product;
 
 import java.util.Scanner;
 
-public class Fibonacci {
+public class Fibonacci_D4 {
 
 	public int series(int n) {
 		
@@ -37,7 +37,7 @@ public class Fibonacci {
 		System.out.println("Enter number : ");
 		int number = s.nextInt();
 		
-		Fibonacci f = new Fibonacci();
+		Fibonacci_D4 f = new Fibonacci_D4();
 	
 		for (int i = 0; i < number; i++) {
             System.out.print(f.series(i) + " ");
